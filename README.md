@@ -1,2 +1,0 @@
-# TiedTogetherBuild
-builds for TiedTogether
